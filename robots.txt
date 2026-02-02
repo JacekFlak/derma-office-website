@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.dermacare.pl/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10
+
+# Disallow crawling of specific paths (if any)
+# Disallow: /admin/
+# Disallow: /private/
